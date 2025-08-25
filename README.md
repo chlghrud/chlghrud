@@ -3,7 +3,7 @@
 
 ## 🧰 보유 기술 
 * **Language:** Java, C#, SQL
-* **Database:** MySQL, MS-SQL
+* **Database:** MySQL
 * **Tools:** Git, GitHub
 
 <br/>
