@@ -4,7 +4,9 @@
 ## 🧰 보유 기술 
 * **Language:** Java, C#, SQL
 * **Database:** MySQL
-* **Tools:** Git, GitHub
+* **Version Control:** Git, GitHub
+
+> 💡 MySQL 환경에서 복잡한 데이터 조회 및 조작(DML) 쿼리 작성에 익숙하며, 테이블 설계 및 관리(DDL)에 대한 학습을 꾸준히 진행하고 있습니다.
 
 <br/>
 
